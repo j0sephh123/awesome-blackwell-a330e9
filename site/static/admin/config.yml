@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
+  accept_roles:
 
 media_folder: "site/static/img"  
 public_folder: "img"
