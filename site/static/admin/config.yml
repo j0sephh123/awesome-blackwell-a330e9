@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: j0sephh123/awesome-blackwell-a330e9
 
 media_folder: "site/static/img"  
 public_folder: "img"
