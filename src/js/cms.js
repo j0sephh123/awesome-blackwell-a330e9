@@ -1,7 +1,7 @@
 import React from "react";
 import CMS from "netlify-cms";
 
-import ItemsPreview from './cms-preview-templates/items'
+import ItemsPreview from './cms-preview-templates/Items/items'
 
 import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
@@ -24,6 +24,8 @@ class ColorControl extends React.Component {
 CMS.registerPreviewStyle("/css/main.css");
 
 CMS.registerPreviewTemplate("items", ItemsPreview);
+
+//console.log(CMS.getPreviewTemplate());
 
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
