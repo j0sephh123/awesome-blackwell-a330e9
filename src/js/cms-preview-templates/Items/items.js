@@ -11,12 +11,10 @@ export default class ItemsPreview extends React.Component {
 
     return (
       <div>
-        Hello.
+        Modified version
         <ul>
-
-          <li>asdasd</li>
-          <li>asdasd</li>
-          <li>asdasd</li>
+          <img src={bg} />
+          
         </ul>
       </div>
     )
