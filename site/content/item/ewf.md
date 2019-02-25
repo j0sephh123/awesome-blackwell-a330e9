@@ -1,6 +1,6 @@
 ---
-it1: ewf
+it1: test123
 it2: ewf
-picture: /img/about-jumbotron.jpg
+picture: /img/blog-chemex.jpg
 ---
 
