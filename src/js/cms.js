@@ -1,5 +1,5 @@
 import React from "react";
-import CMS from "netlify-cms";
+import CMS from "./dist/netlify-cms";
 
 import ItemsPreview from './cms-preview-templates/Items/items'
 
