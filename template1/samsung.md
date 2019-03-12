@@ -1,0 +1,5 @@
+---
+title: samsung
+text: samsungtext
+---
+
