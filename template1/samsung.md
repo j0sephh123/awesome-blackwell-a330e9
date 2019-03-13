@@ -1,5 +1,5 @@
 ---
-title: samsung
-text: samsungtext
+title: Drow Ranger
+text: Drow Ranger Text
 ---
 
