@@ -1,0 +1,5 @@
+---
+title: void
+text: asd
+---
+
